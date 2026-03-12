@@ -1,4 +1,4 @@
-Temporary Fix:
-1. Right click Steam on Desktop and click Open file location
-2. Rename xinput1_4.dll to dwmapi.dll
-Note: Kung walang .dll sa dulo means hindi naka show ang file type sa options ng file explorer mo, irename mo nalang ang xinput1_4 to dwmapi then reopen Steam.
+Temporary Fix:\n
+1. Right click Steam on Desktop and click Open file location\n
+2. Rename xinput1_4.dll to dwmapi.dll\n
+Note: Kung walang .dll sa dulo means hindi naka show ang file type sa options ng file explorer mo, irename mo nalang ang xinput1_4 to dwmapi then reopen Steam.\n
